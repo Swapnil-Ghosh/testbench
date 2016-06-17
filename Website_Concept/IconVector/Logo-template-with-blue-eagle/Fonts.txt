@@ -1,0 +1,6 @@
+Fonts:
+BONVENO CF: http://www.fontsquirrel.com/fonts/BonvenoCF
+
+by
+Barry Schwartz
+http://www.fontsquirrel.com/fonts/amatic
